@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root{
+  --navy:#0C2239;
+  --gold:#D1A234;
+  --charcoal:#2C2C2C;
+  --grey:#E5E7EB;
+}
+
+html { scroll-behavior: smooth; }
+body { font-feature-settings: "ss01" on; }
+
